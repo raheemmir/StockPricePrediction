@@ -1,0 +1,8 @@
+# Ignore the config.py file
+config.py
+
+# Mac system files
+.DS_Store
+
+# Ignore the virtual environment directory
+myenv/
