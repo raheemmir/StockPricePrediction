@@ -38,4 +38,4 @@ Now that everything is set up, you can launch Jupyter Notebook:
 ```
 jupyter notebook
 ```
-Then navigate to where you've cloned the repo, open the file `sp500.ipynb`, and enjoy the project!
+Then navigate to where you've cloned the repo, open the file `sp500.ipynb`, and dive into the project!
